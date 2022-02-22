@@ -1,6 +1,6 @@
 # vggsound dataset
 
-This is a set of tools for downloading and using [VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/), a dataset of labeled audio-visual files.
+This is a set of tools for downloading [VGG-Sound](https://www.robots.ox.ac.uk/~vgg/data/vggsound/), a dataset of labeled audio-visual files.
 
 # Running
 First, mkdir train and test
